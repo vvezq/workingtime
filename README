@@ -1,0 +1,17 @@
+## SIMPLE WORKING TIME COUNTER ##
+
+This is a very simple Python exercise that implements working time counter.
+SQLite is used to store the data. Tested with python2 and python3.
+
+## USAGE
+
+1. Create DB
+$ python create_db.py
+
+2. Start the program
+$ python workingtime.py
+
+## OTHER
+
+# Show working time for a given date
+$ python workingtime_show.py
